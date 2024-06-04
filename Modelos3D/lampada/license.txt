@@ -1,0 +1,11 @@
+Model Information:
+* title:	Lampada Sospesa Federica Parrella
+* source:	https://sketchfab.com/3d-models/lampada-sospesa-federica-parrella-963e2504817143afa7133f8129674e23
+* author:	unrealstudio (https://sketchfab.com/unrealstudio)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Lampada Sospesa Federica Parrella" (https://sketchfab.com/3d-models/lampada-sospesa-federica-parrella-963e2504817143afa7133f8129674e23) by unrealstudio (https://sketchfab.com/unrealstudio) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
